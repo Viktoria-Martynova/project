@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-image: url(images/patt.png);
 }
 * {
     box-sizing: border-box;
@@ -33,4 +34,8 @@ col-3 {
     float: left;
     padding-left: 15px;
     padding-right: 15px;
+}
+.header {
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 25px 0;
 }
